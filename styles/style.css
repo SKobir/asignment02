@@ -12,11 +12,11 @@ body{
 h2.title{
     font-size: 24px;
     margin-left: 90px;
-    margin-top: 87px;
 }
 .intro-section{
     display: grid;
     grid-template-columns: repeat(2, 1fr);
+    margin-bottom: 100px;
 }  
 .left-portion{
     width: 582px;
